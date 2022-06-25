@@ -22,7 +22,6 @@ const vqv = (param1, param2) => {
   if (typeof param1 === 'undefined' || typeof param2 === 'undefined') {
     return undefined;
   }
-  // return `Oi, meu nome é ${param1}!\nTenho ${param2} anos,\ntrabalho na Trybe e mando muito em programação!\n#VQV!`;
   return `Oi, meu nome é ${param1}!
 Tenho ${param2} anos,
 trabalho na Trybe e mando muito em programação!
